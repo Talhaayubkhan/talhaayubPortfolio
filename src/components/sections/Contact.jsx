@@ -23,6 +23,11 @@ const Contact = () => {
               <p className="text-gray-400 break-all">{personalInfo.email}</p>
             </div>
             <div className="bg-slate-800/50 p-6 rounded-xl backdrop-blur-sm border border-slate-700/50 hover:border-purple-500/50 transition-all duration-300">
+              <Phone className="text-blue-400 mx-auto mb-4" size={32} />
+              <h3 className="font-semibold mb-2">Phone</h3>
+              <p className="text-gray-400">+92 318*****81</p>
+            </div>
+            <div className="bg-slate-800/50 p-6 rounded-xl backdrop-blur-sm border border-slate-700/50 hover:border-purple-500/50 transition-all duration-300">
               <MapPin className="text-green-400 mx-auto mb-4" size={32} />
               <h3 className="font-semibold mb-2">Location</h3>
               <p className="text-gray-400">Peshawar, Pakistan</p>
