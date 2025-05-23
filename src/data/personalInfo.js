@@ -1,9 +1,8 @@
 export const personalInfo = {
   name: "Talha Ayub",
   title: "MERN Stack Developer",
-  location: "Peshawar, Pakistan",
-  phone: "+92 3185933881",
-  email: "mailto:khantalharahi@gmail.com",
+  location: "Swabi, Khyber Pakhtunkhwa",
+  email: "khantalharahi@gmail.com",
   github: "https://github.com/Talhaayubkhan",
   linkedin: "https://www.linkedin.com/in/talhaayub1",
   summary: "Motivated and detail-oriented MERN Stack Developer with hands-on experience in building responsive and user-friendly web applications using React, Node.js, Express, and MongoDB.",
